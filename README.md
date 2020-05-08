@@ -1,4 +1,5 @@
 # Extract_DL_Details
+Make sure you click 'View Code' and / or open the folder 'ExtractDL' where you will find the code to this project
 Extracting DL Details From the Parivahan Government Website
 Make sure you have the required modules pre-installed, the modules are
   1. Requests
